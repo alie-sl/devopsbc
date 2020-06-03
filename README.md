@@ -1,5 +1,5 @@
 # DevOps BC
- 2. [Python exercises](python)
+ 1. [Python exercises](python)
 This project it's to learn DevOps
 
-1. [Hello world](hello-world.py)# devopsbc
+2. [Hello world](hello-world.py)# devopsbc
